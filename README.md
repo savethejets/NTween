@@ -1,4 +1,4 @@
-NTWeen
+# NTWeen
 
 NTween is a facade layer between your Unity3D code 
 and your tween engine.
@@ -6,7 +6,7 @@ and your tween engine.
 Using NTween you can easily change out your tween 
 engine if you need to and not have to alter all your code.
 
-HOW TO USE
+## HOW TO USE
 
 import the code into your unity3D project.
 
@@ -21,7 +21,7 @@ Enter HOTWEEN_TYPE if you’re using HOTWEEN
 Enter DOTWEEN_TYPE if you’re using DOTWEEN.
 (more to come…)
 
-NTween helper methods
+## NTween helper methods
 
 NTween has some extension methods that will help you create clean code
 
